@@ -1,0 +1,249 @@
+body{
+    margin:0px;
+    background-color:#c692b0;
+
+}
+a{
+    text-decoration: none;
+}
+
+/*header section*/
+header{
+    height:60px;
+    /*border:5px solid hotpink;*/
+    background-color: #3b2632;
+
+}
+
+#brand{
+    float:left;
+    color:white;
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.filter{
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-weight: lighter;
+}
+
+button{
+   font-size: 12px;
+   padding:5px;
+   border-radius:10px;
+   margin:10px;
+   left: 10%;
+   background-color: #81ac1d;
+   
+   
+}
+#btnone:hover{
+    text-align: center;
+    background: aqua;
+    padding: 5px;
+}
+#btntwo:hover{
+    text-align: center;
+    background: rgb(177, 82, 27);
+    padding: 5px;
+}
+#btnthree:hover{
+    text-align: center;
+    background: rgb(204, 95, 164);
+    padding: 5px;
+}
+
+#btn4:hover{
+    text-align: center;
+    background: rgb(128, 74, 190);
+    padding: 5px;
+}
+
+#btn5:hover{
+    text-align: center;
+    background: rgb(199, 99, 99);
+    padding: 5px;
+}
+
+#btn6:hover{
+    text-align: center;
+    background: rgb(145, 60, 125);
+    padding: 5px;
+}
+
+#btn7:hover{
+    text-align: center;
+    background: rgb(100, 134, 180);
+    padding: 5px;
+}
+
+
+#container{
+    text-align: center;
+}
+#social{
+    float:right;
+    position: absolute;
+    top: 0%;
+    right: 0%; 
+}
+.socialLogo{
+    height:50px;
+    width:50px;
+    margin:5px 5px 5px 5px;
+   }
+ 
+   
+   
+
+
+#content{
+    width:85%;
+    margin-left:7.5%;
+    margin-top: 3%;
+    display:inline-block;
+}
+.filter{
+    height:500px;
+    width:20%;
+    border:3px solid gray;
+    float:left;
+}
+.restContent{
+    height:350px;
+    width:70%;
+    float:left;
+    margin-left: 7%;
+    background-color: blanchedalmond;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+}
+.restContent1{
+    height:350px;
+    width:70%;
+    float:left;
+    margin-left: 7%;
+    margin-top: 20px;
+    background-color: rgb(64, 159, 145);
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+}
+.restContent2{
+    height:350px;
+    width:70%;
+    float:left;
+    margin-left: 28%;
+    margin-top: 20px;
+    background-color: rgb(141, 169, 180);
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+}
+
+.restContent3{
+    height:350px;
+    width:70%;
+    float:left;
+    margin-left: 28%;
+    margin-top: 20px;
+    background-color: rgb(154, 147, 195);
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+}
+.restContent4{
+    height:350px;
+    width:70%;
+    float:left;
+    margin-left: 28%;
+    margin-top: 20px;
+    background-color: rgb(202, 186, 82);
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+}
+
+.restContent5{
+    height:350px;
+    width:70%;
+    float:left;
+    margin-left: 28%;
+    margin-top: 20px;
+    background-color: rgb(107, 159, 146);
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+}
+
+.box1 >img{
+    height:300px;
+    width:350px;
+    padding:5px;
+    border-radius:20px;
+    margin-left: 5px;
+    margin-top: 13px;
+    
+}
+
+#container1{
+   text-align: center;
+    margin-left: 50%;
+}
+
+
+
+ 
+
+
+h1{
+    width:47%;
+    margin-left: 50%;
+    margin-top: -41%;
+    color: green;
+    
+}
+p{
+    margin-left: 4px;
+    display: flex;
+    font-size: 16px;
+    font-weight: bold;
+    color:black;
+}
+
+
+
+
+
+
+
+/*footer section*/
+footer{
+    
+    /*border:15px groove green;*/
+    background-color: #3b2632;
+    color:white;
+    text-align:center;
+ }
+
+.footText{
+    font-size:20px;
+}
+.footDiv{
+    display:inline-block;
+    width:32%;
+    border-right: 2px solid white;
+}
+
+.noBorder{
+    border:none;
+}
+
+
+ ul{
+    list-style-type: none;
+ }
+
